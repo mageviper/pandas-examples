@@ -1,0 +1,42 @@
+product_id,product_name,category,subcategory,price,avg_rating,inventory_level,days_to_ship
+P1021,Wireless Headphones,Electronics,Audio,89.99,4.5,125,2
+P3045,Bluetooth Speaker,Electronics,Audio,59.99,4.3,87,2
+P5067,USB-C Cable,Electronics,Accessories,12.99,4.1,312,1
+P2088,Smart Watch,Electronics,Wearables,159.99,4.7,68,3
+P4078,Watch Band,Accessories,Wearables,24.99,4.2,156,1
+P7012,Running Shoes,Footwear,Athletic,120.50,4.6,95,2
+P7045,Athletic Socks,Apparel,Athletic,15.99,4.0,230,1
+P7089,Workout Shorts,Apparel,Athletic,35.50,4.4,112,1
+P7103,Fitness Tracker,Electronics,Wearables,89.99,4.5,76,2
+P4012,Coffee Maker,Home & Kitchen,Appliances,75.99,4.8,63,3
+P4023,Coffee Beans,Groceries,Beverages,18.50,4.3,187,1
+P4067,Coffee Grinder,Home & Kitchen,Appliances,45.99,4.4,92,2
+P4089,Coffee Mug Set,Home & Kitchen,Tableware,29.99,4.2,134,1
+P6023,Skincare Set,Beauty,Skincare,65.50,4.7,78,2
+P6045,Facial Cleanser,Beauty,Skincare,22.99,4.5,145,1
+P6078,Moisturizer,Beauty,Skincare,34.50,4.6,109,1
+P6089,Sunscreen,Beauty,Skincare,18.99,4.4,156,1
+P8034,Dining Table,Furniture,Dining,299.99,4.8,32,5
+P8056,Dining Chairs,Furniture,Dining,149.99,4.6,87,4
+P8078,Table Runner,Home & Kitchen,Tableware,24.50,4.1,123,1
+P8092,Placemats Set,Home & Kitchen,Tableware,35.99,4.2,98,1
+P3023,Gaming Laptop,Electronics,Computers,1299.99,4.7,45,3
+P3089,Gaming Mouse,Electronics,Peripherals,45.99,4.5,112,2
+P3098,Gaming Keyboard,Electronics,Peripherals,89.50,4.6,87,2
+P3112,Gaming Headset,Electronics,Audio,75.99,4.4,94,2
+P5034,Garden Hose,Garden,Tools,29.50,4.2,76,2
+P5078,Plant Pots,Garden,Containers,18.99,4.3,145,1
+P5092,Gardening Tools,Garden,Tools,45.50,4.5,67,2
+P5123,Soil Bag,Garden,Gardening,12.99,4.1,198,1
+P2023,Smartphone,Electronics,Mobile,799.99,4.8,56,3
+P2045,Phone Case,Accessories,Mobile,24.99,4.3,176,1
+P2067,Screen Protector,Accessories,Mobile,15.50,4.0,245,1
+P2089,Wireless Charger,Electronics,Mobile,35.99,4.4,128,1
+P9023,Cookbook,Books,Cooking,25.50,4.6,87,1
+P4056,Baking Set,Home & Kitchen,Bakeware,65.99,4.7,64,2
+P4078,Mixing Bowls,Home & Kitchen,Bakeware,32.50,4.4,93,1
+P4091,Measuring Cups,Home & Kitchen,Bakeware,18.99,4.2,127,1
+P1045,Tablet,Electronics,Mobile,349.99,4.7,62,3
+P1067,Tablet Stand,Accessories,Mobile,29.50,4.3,118,1
+P1089,Tablet Case,Accessories,Mobile,45.99,4.5,96,1
+P1092,Stylus Pen,Accessories,Mobile,35.50,4.2,145,1

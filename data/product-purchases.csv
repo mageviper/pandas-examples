@@ -1,0 +1,42 @@
+customer_id,order_id,product_id,product_name,product_category,purchase_date,price,quantity
+1001,ORD-7845,P1021,Wireless Headphones,Electronics,2023-02-15,89.99,1
+1001,ORD-7845,P3045,Bluetooth Speaker,Electronics,2023-02-15,59.99,1
+1001,ORD-7845,P5067,USB-C Cable,Electronics,2023-02-15,12.99,2
+1001,ORD-8912,P2088,Smart Watch,Electronics,2023-04-03,159.99,1
+1001,ORD-8912,P4078,Watch Band,Accessories,2023-04-03,24.99,2
+1002,ORD-6734,P7012,Running Shoes,Footwear,2023-01-20,120.50,1
+1002,ORD-6734,P7045,Athletic Socks,Apparel,2023-01-20,15.99,3
+1002,ORD-7265,P7089,Workout Shorts,Apparel,2023-03-05,35.50,2
+1002,ORD-7265,P7103,Fitness Tracker,Electronics,2023-03-05,89.99,1
+1003,ORD-6823,P4012,Coffee Maker,Home & Kitchen,2023-02-10,75.99,1
+1003,ORD-6823,P4023,Coffee Beans,Groceries,2023-02-10,18.50,2
+1003,ORD-7654,P4067,Coffee Grinder,Home & Kitchen,2023-04-12,45.99,1
+1003,ORD-7654,P4089,Coffee Mug Set,Home & Kitchen,2023-04-12,29.99,1
+1004,ORD-7012,P6023,Skincare Set,Beauty,2023-01-18,65.50,1
+1004,ORD-7012,P6045,Facial Cleanser,Beauty,2023-01-18,22.99,1
+1004,ORD-7923,P6078,Moisturizer,Beauty,2023-03-22,34.50,1
+1004,ORD-7923,P6089,Sunscreen,Beauty,2023-03-22,18.99,2
+1005,ORD-7156,P8034,Dining Table,Furniture,2023-02-05,299.99,1
+1005,ORD-7156,P8056,Dining Chairs,Furniture,2023-02-05,149.99,4
+1005,ORD-8245,P8078,Table Runner,Home & Kitchen,2023-04-08,24.50,1
+1005,ORD-8245,P8092,Placemats Set,Home & Kitchen,2023-04-08,35.99,1
+1006,ORD-6945,P3023,Gaming Laptop,Electronics,2023-01-25,1299.99,1
+1006,ORD-6945,P3089,Gaming Mouse,Electronics,2023-01-25,45.99,1
+1006,ORD-7546,P3098,Gaming Keyboard,Electronics,2023-03-15,89.50,1
+1006,ORD-7546,P3112,Gaming Headset,Electronics,2023-03-15,75.99,1
+1007,ORD-7245,P5034,Garden Hose,Garden,2023-02-12,29.50,1
+1007,ORD-7245,P5078,Plant Pots,Garden,2023-02-12,18.99,3
+1007,ORD-8134,P5092,Gardening Tools,Garden,2023-04-20,45.50,1
+1007,ORD-8134,P5123,Soil Bag,Garden,2023-04-20,12.99,2
+1008,ORD-6834,P2023,Smartphone,Electronics,2023-01-30,799.99,1
+1008,ORD-6834,P2045,Phone Case,Accessories,2023-01-30,24.99,1
+1008,ORD-6834,P2067,Screen Protector,Accessories,2023-01-30,15.50,1
+1008,ORD-7723,P2089,Wireless Charger,Electronics,2023-03-28,35.99,1
+1009,ORD-7345,P9023,Cookbook,Books,2023-02-08,25.50,1
+1009,ORD-7345,P4056,Baking Set,Home & Kitchen,2023-02-08,65.99,1
+1009,ORD-8312,P4078,Mixing Bowls,Home & Kitchen,2023-04-15,32.50,1
+1009,ORD-8312,P4091,Measuring Cups,Home & Kitchen,2023-04-15,18.99,1
+1010,ORD-6912,P1045,Tablet,Electronics,2023-01-15,349.99,1
+1010,ORD-6912,P1067,Tablet Stand,Accessories,2023-01-15,29.50,1
+1010,ORD-7823,P1089,Tablet Case,Accessories,2023-03-25,45.99,1
+1010,ORD-7823,P1092,Stylus Pen,Accessories,2023-03-25,35.50,1

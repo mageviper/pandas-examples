@@ -1,0 +1,145 @@
+date,region,product_category,sales_amount,units_sold,discount_applied,marketing_spend,customer_segment
+2022-01,North America,Electronics,128750.50,1025,0.05,15000,New
+2022-01,North America,Apparel,87250.75,2450,0.10,8500,Returning
+2022-01,North America,Home & Garden,45675.25,985,0.00,5500,Loyal
+2022-01,North America,Beauty,32450.50,1250,0.15,4800,New
+2022-01,Europe,Electronics,95450.25,775,0.05,12000,Returning
+2022-01,Europe,Apparel,68750.50,1850,0.10,7500,Loyal
+2022-01,Europe,Home & Garden,38250.75,815,0.00,4800,New
+2022-01,Europe,Beauty,25750.25,985,0.15,3800,Returning
+2022-01,Asia,Electronics,75450.50,625,0.05,9000,Loyal
+2022-01,Asia,Apparel,52450.25,1450,0.10,6500,New
+2022-01,Asia,Home & Garden,28750.75,625,0.00,3800,Returning
+2022-01,Asia,Beauty,18450.50,725,0.15,2800,Loyal
+2022-02,North America,Electronics,118450.25,945,0.05,14000,New
+2022-02,North America,Apparel,82750.75,2325,0.10,8000,Returning
+2022-02,North America,Home & Garden,42450.50,915,0.00,5250,Loyal
+2022-02,North America,Beauty,28750.25,1125,0.15,4500,New
+2022-02,Europe,Electronics,88750.50,715,0.05,11500,Returning
+2022-02,Europe,Apparel,64250.25,1725,0.10,7250,Loyal
+2022-02,Europe,Home & Garden,35450.75,745,0.00,4500,New
+2022-02,Europe,Beauty,23450.50,915,0.15,3500,Returning
+2022-02,Asia,Electronics,69450.25,575,0.05,8500,Loyal
+2022-02,Asia,Apparel,48750.50,1325,0.10,6250,New
+2022-02,Asia,Home & Garden,26450.75,575,0.00,3500,Returning
+2022-02,Asia,Beauty,16750.25,675,0.15,2500,Loyal
+2022-03,North America,Electronics,135450.75,1085,0.05,16000,New
+2022-03,North America,Apparel,92450.50,2615,0.10,9000,Returning
+2022-03,North America,Home & Garden,48250.25,1045,0.00,5750,Loyal
+2022-03,North America,Beauty,35450.75,1315,0.15,5000,New
+2022-03,Europe,Electronics,102450.50,825,0.05,13000,Returning
+2022-03,Europe,Apparel,72450.25,1950,0.10,8000,Loyal
+2022-03,Europe,Home & Garden,40750.75,865,0.00,5000,New
+2022-03,Europe,Beauty,27450.50,1045,0.15,4000,Returning
+2022-03,Asia,Electronics,82450.25,675,0.05,9500,Loyal
+2022-03,Asia,Apparel,55450.50,1525,0.10,7000,New
+2022-03,Asia,Home & Garden,30450.75,675,0.00,4000,Returning
+2022-03,Asia,Beauty,20450.50,775,0.15,3000,Loyal
+2022-04,North America,Electronics,142750.25,1145,0.05,17000,New
+2022-04,North America,Apparel,97250.75,2750,0.10,9500,Returning
+2022-04,North America,Home & Garden,51450.50,1115,0.00,6000,Loyal
+2022-04,North America,Beauty,38250.25,1450,0.15,5500,New
+2022-04,Europe,Electronics,108750.75,875,0.05,14000,Returning
+2022-04,Europe,Apparel,76750.50,2075,0.10,8500,Loyal
+2022-04,Europe,Home & Garden,43450.25,925,0.00,5500,New
+2022-04,Europe,Beauty,29750.75,1115,0.15,4500,Returning
+2022-04,Asia,Electronics,88750.50,725,0.05,10000,Loyal
+2022-04,Asia,Apparel,58750.25,1625,0.10,7500,New
+2022-04,Asia,Home & Garden,32750.75,725,0.00,4500,Returning
+2022-04,Asia,Beauty,22750.50,825,0.15,3500,Loyal
+2022-05,North America,Electronics,148250.75,1185,0.05,18000,New
+2022-05,North America,Apparel,101450.25,2850,0.10,10000,Returning
+2022-05,North America,Home & Garden,53750.50,1165,0.00,6250,Loyal
+2022-05,North America,Beauty,40750.75,1525,0.15,5750,New
+2022-05,Europe,Electronics,114250.25,915,0.05,15000,Returning
+2022-05,Europe,Apparel,80450.75,2175,0.10,9000,Loyal
+2022-05,Europe,Home & Garden,45750.50,975,0.00,5750,New
+2022-05,Europe,Beauty,31450.25,1165,0.15,4750,Returning
+2022-05,Asia,Electronics,93450.75,755,0.05,10500,Loyal
+2022-05,Asia,Apparel,61450.50,1695,0.10,8000,New
+2022-05,Asia,Home & Garden,34450.25,755,0.00,4750,Returning
+2022-05,Asia,Beauty,24450.75,865,0.15,3750,Loyal
+2022-06,North America,Electronics,155750.50,1245,0.05,19000,New
+2022-06,North America,Apparel,107750.25,3025,0.10,10500,Returning
+2022-06,North America,Home & Garden,56750.75,1235,0.00,6500,Loyal
+2022-06,North America,Beauty,43450.50,1625,0.15,6000,New
+2022-06,Europe,Electronics,120750.75,965,0.05,16000,Returning
+2022-06,Europe,Apparel,84750.50,2285,0.10,9500,Loyal
+2022-06,Europe,Home & Garden,48450.25,1025,0.00,6000,New
+2022-06,Europe,Beauty,33750.75,1235,0.15,5000,Returning
+2022-06,Asia,Electronics,98750.25,795,0.05,11000,Loyal
+2022-06,Asia,Apparel,64750.75,1785,0.10,8500,New
+2022-06,Asia,Home & Garden,36750.50,795,0.00,5000,Returning
+2022-06,Asia,Beauty,26750.25,915,0.15,4000,Loyal
+2022-07,North America,Electronics,149250.25,1195,0.05,18500,New
+2022-07,North America,Apparel,103450.75,2915,0.10,10250,Returning
+2022-07,North America,Home & Garden,54450.50,1185,0.00,6375,Loyal
+2022-07,North America,Beauty,41750.25,1575,0.15,5875,New
+2022-07,Europe,Electronics,116450.50,935,0.05,15500,Returning
+2022-07,Europe,Apparel,82450.25,2225,0.10,9250,Loyal
+2022-07,Europe,Home & Garden,46750.75,995,0.00,5875,New
+2022-07,Europe,Beauty,32450.50,1185,0.15,4875,Returning
+2022-07,Asia,Electronics,95450.75,765,0.05,10750,Loyal
+2022-07,Asia,Apparel,62450.50,1735,0.10,8250,New
+2022-07,Asia,Home & Garden,35450.25,765,0.00,4875,Returning
+2022-07,Asia,Beauty,25450.75,885,0.15,3875,Loyal
+2022-08,North America,Electronics,142750.75,1145,0.05,18000,New
+2022-08,North America,Apparel,98750.50,2775,0.10,10000,Returning
+2022-08,North America,Home & Garden,51750.25,1125,0.00,6250,Loyal
+2022-08,North America,Beauty,39450.75,1505,0.15,5750,New
+2022-08,Europe,Electronics,111750.50,895,0.05,15000,Returning
+2022-08,Europe,Apparel,78750.25,2125,0.10,9000,Loyal
+2022-08,Europe,Home & Garden,44450.75,945,0.00,5750,New
+2022-08,Europe,Beauty,30750.50,1125,0.15,4750,Returning
+2022-08,Asia,Electronics,91750.25,735,0.05,10500,Loyal
+2022-08,Asia,Apparel,59750.75,1675,0.10,8000,New
+2022-08,Asia,Home & Garden,33750.50,735,0.00,4750,Returning
+2022-08,Asia,Beauty,24250.25,845,0.15,3750,Loyal
+2022-09,North America,Electronics,137750.25,1105,0.05,17500,New
+2022-09,North America,Apparel,94750.75,2675,0.10,9750,Returning
+2022-09,North America,Home & Garden,49750.50,1075,0.00,6125,Loyal
+2022-09,North America,Beauty,37450.25,1425,0.15,5625,New
+2022-09,Europe,Electronics,107750.75,865,0.05,14500,Returning
+2022-09,Europe,Apparel,75750.50,2025,0.10,8750,Loyal
+2022-09,Europe,Home & Garden,42750.25,905,0.00,5625,New
+2022-09,Europe,Beauty,29450.75,1075,0.15,4625,Returning
+2022-09,Asia,Electronics,87750.50,705,0.05,10250,Loyal
+2022-09,Asia,Apparel,57450.25,1605,0.10,7750,New
+2022-09,Asia,Home & Garden,32250.75,705,0.00,4625,Returning
+2022-09,Asia,Beauty,23250.50,805,0.15,3625,Loyal
+2022-10,North America,Electronics,145250.75,1165,0.05,18250,New
+2022-10,North America,Apparel,99450.25,2815,0.10,10125,Returning
+2022-10,North America,Home & Garden,52250.50,1145,0.00,6375,Loyal
+2022-10,North America,Beauty,39750.75,1515,0.15,5875,New
+2022-10,Europe,Electronics,112750.25,905,0.05,15250,Returning
+2022-10,Europe,Apparel,79450.75,2150,0.10,9125,Loyal
+2022-10,Europe,Home & Garden,44950.50,955,0.00,5875,New
+2022-10,Europe,Beauty,30950.25,1145,0.15,4875,Returning
+2022-10,Asia,Electronics,91950.75,737,0.05,10625,Loyal
+2022-10,Asia,Apparel,60250.50,1685,0.10,8125,New
+2022-10,Asia,Home & Garden,33950.25,737,0.00,4875,Returning
+2022-10,Asia,Beauty,24350.75,855,0.15,3875,Loyal
+2022-11,North America,Electronics,165250.50,1325,0.05,20000,New
+2022-11,North America,Apparel,115750.25,3275,0.10,11500,Returning
+2022-11,North America,Home & Garden,62750.75,1365,0.00,7000,Loyal
+2022-11,North America,Beauty,45750.50,1725,0.15,6500,New
+2022-11,Europe,Electronics,128750.75,1035,0.05,17000,Returning
+2022-11,Europe,Apparel,92750.50,2485,0.10,10000,Loyal
+2022-11,Europe,Home & Garden,51450.25,1095,0.00,6500,New
+2022-11,Europe,Beauty,35750.75,1365,0.15,5500,Returning
+2022-11,Asia,Electronics,104750.25,845,0.05,12000,Loyal
+2022-11,Asia,Apparel,70750.75,1975,0.10,9000,New
+2022-11,Asia,Home & Garden,40750.50,845,0.00,5500,Returning
+2022-11,Asia,Beauty,29750.25,975,0.15,4500,Loyal
+2022-12,North America,Electronics,185250.25,1485,0.05,22000,New
+2022-12,North America,Apparel,130750.75,3675,0.10,12500,Returning
+2022-12,North America,Home & Garden,70750.50,1535,0.00,7500,Loyal
+2022-12,North America,Beauty,52750.25,1975,0.15,7000,New
+2022-12,Europe,Electronics,142750.50,1145,0.05,19000,Returning
+2022-12,Europe,Apparel,102750.25,2785,0.10,11000,Loyal
+2022-12,Europe,Home & Garden,57750.75,1235,0.00,7000,New
+2022-12,Europe,Beauty,39750.50,1535,0.15,6000,Returning
+2022-12,Asia,Electronics,117750.75,945,0.05,13000,Loyal
+2022-12,Asia,Apparel,79750.50,2215,0.10,10000,New
+2022-12,Asia,Home & Garden,45750.25,945,0.00,6000,Returning
+2022-12,Asia,Beauty,33750.75,1075,0.15,5000,Loyal
